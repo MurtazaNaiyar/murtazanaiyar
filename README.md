@@ -3,7 +3,7 @@
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-I am a Data Science Professional with over 6.5 Years of Experience in Big Data/ML Engineering and Data Science.
+I am a Data Science Professional with over 9 Years of Experience in Big Data/ML Engineering and Data Science.
 I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
  **I am open to**:
